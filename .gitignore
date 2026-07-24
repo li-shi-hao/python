@@ -26,7 +26,7 @@ env/
 .vscode/
 
 # 临时工具脚本
-mima.py
+temp/
 
 # 生成的报告文件
 报告_*.md
